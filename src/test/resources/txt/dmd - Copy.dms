@@ -1,0 +1,3 @@
+SET INPUT \\slcnas463\dfs\enterprise\HCM\NET_HCM92\Testware\US_Payroll\Expected\LoadPaysheetTransactions\92DMS_SCRIPTS\TEST\01_PSHUP.dat;
+
+IMPORT *;

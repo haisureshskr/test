@@ -1,0 +1,8 @@
+INFO    2022-09-22 16:34:13,137 [main] testNG.testcase1  - test_db connected
+DEBUG   2022-09-22 16:34:13,144 [main] testNG.testcase1  - browser is launched
+ERROR   2022-09-22 16:34:13,150 [main] testNG.testcase1  - browser did not close
+DEBUG   2022-09-22 16:34:13,152 [main] testNG.testcase1  - browser is launched
+ERROR   2022-09-22 16:34:13,155 [main] testNG.testcase1  - browser did not close
+DEBUG   2022-09-22 16:34:13,155 [main] testNG.testcase1  - browser is launched
+ERROR   2022-09-22 16:34:13,157 [main] testNG.testcase1  - browser did not close
+INFO    2022-09-22 16:34:13,157 [main] testNG.testcase1  - test_DB closed

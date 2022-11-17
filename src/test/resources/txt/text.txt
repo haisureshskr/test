@@ -1,0 +1,4 @@
+SET INPUT \\slcnas463\enterprise\HCM\NET_HCM92\Testware\US_Payroll\Expected\LoadPaysheetTransactions\92DMS_SCRIPTS\TEST\01_PSHUP.dat
+
+SET LOG \\slcnas463\enterprise\HCM\PNA_QA\DMS\01_91_2012_On_IPA-JAN-01_LOG.log;
+SET INPUT \\slcnas463\enterprise\HCM\PNA_QA\DMS\01_91_2012_On_IPA-JAN-01.DAT;

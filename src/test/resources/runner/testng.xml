@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DD_Basics">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="listener.CustomListeners" />
+	</listeners>
+	<test thread-count="5" name="LoginTest">
+		<classes>
+			<class name="tetstcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="AddCustomer">
+		<classes>
+			<class name="tetstcases.AddCustomerTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="GoogleSearch">
+		<classes>
+			<class name="tetstcases.GoogleSearch" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="testcase1">
+		<classes>
+			<class name="tetstcases.testcase1" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

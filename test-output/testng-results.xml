@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9884" started-at="2022-11-16T11:08:19 IST" finished-at="2022-11-16T11:08:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9884" started-at="2022-11-16T11:08:19 IST" finished-at="2022-11-16T11:08:29 IST">
+      <class name="testNG.testcase3">
+        <test-method status="PASS" signature="StringReverse()[pri:0, instance:testNG.testcase3@76a3e297]" name="StringReverse" duration-ms="7" started-at="2022-11-16T11:08:19 IST" finished-at="2022-11-16T11:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StringReverse -->
+        <test-method status="PASS" signature="SwapTwoNumbers()[pri:0, instance:testNG.testcase3@76a3e297]" name="SwapTwoNumbers" duration-ms="9850" started-at="2022-11-16T11:08:19 IST" finished-at="2022-11-16T11:08:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwapTwoNumbers -->
+        <test-method status="PASS" signature="countwords()[pri:0, instance:testNG.testcase3@76a3e297]" name="countwords" duration-ms="1" started-at="2022-11-16T11:08:29 IST" finished-at="2022-11-16T11:08:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countwords -->
+      </class> <!-- testNG.testcase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

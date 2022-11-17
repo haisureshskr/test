@@ -1,0 +1,2 @@
+INFO    2022-08-18 14:43:00,750 [main] utilities.TestLogs  - This is information log
+ERROR   2022-08-18 14:43:00,753 [main] utilities.TestLogs  - this is error log
